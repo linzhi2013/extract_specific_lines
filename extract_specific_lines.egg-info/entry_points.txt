@@ -1,0 +1,3 @@
+[console_scripts]
+extract_specific_lines = extract_specific_lines.extract_specific_lines:main
+
