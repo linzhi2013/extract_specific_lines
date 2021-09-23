@@ -38,7 +38,7 @@ There will be a command `extract_specific_lines` created under the same director
 Guanliang MENG
 
 ## Citation
-Currently I have no plan to publish `extract_specific_lines`.
+Currently I have no plan to publish `extract_specific_lines`. **However, if you use this program in your analysis, or you "steal" the idea/codes of this program into your script, I should be one of the co-authors in your publication!!!**
 
 
 
